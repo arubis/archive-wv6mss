@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://arubis.github.io/archive-wv6mss/sitemap.xml
